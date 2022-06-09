@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naorJR)](https://github.com/naorJR)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naorJR&layout=compact)](https://github.com/naorJR)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=naorJR.naorJR)](https://www.yushi.dev/)
