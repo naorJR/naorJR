@@ -9,6 +9,15 @@ I'm Electrical and Computer Engineer 💻!
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 💼 Technical Skills
+
+
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
+</br>
+
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naorJR)](https://github.com/naorJR)
