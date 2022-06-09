@@ -1,10 +1,8 @@
 ### Hi there 👋
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+<a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Naor | LinkedIn" width="21px"/></a>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <!--
 **naorJR/naorJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
