@@ -21,14 +21,10 @@ I'm Electrical and Computer Engineer 💻!
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=CC0000)
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&color=336791)
 ![](https://img.shields.io/badge/Code-DeepLearning-informational?style=flat&logo=DeepLearning&color=61DAFB)
-
-
-</br>
-
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-# 🤔 I’m looking for help with finding a job as a developer 
-# ⚡ Fun fact: I watched Prison break 5 times
+### 🤔 I’m looking for help with finding a job as a developer 
+### ⚡ Fun fact: I watched Prison break 5 times
 
 ## 📈 GitHub Stats 
 
