@@ -27,6 +27,8 @@ I'm Electrical and Computer Engineer 💻!
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+</br>
+
 - 🤔 I’m looking for help with finding a job as a developer 
 - ⚡ Fun fact: I watched Prison break 5 times
 
