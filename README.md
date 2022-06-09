@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/naor-cohen-675694223/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([[https://www.linkedin.com/](https://www.linkedin.com/in/naor-cohen-675694223/)](https://www.linkedin.com/in/naor-cohen-675694223/))
