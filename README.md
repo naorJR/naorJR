@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Naor 👋
+</h3>
+
+<h2 align="center">
+I'm Electrical and Computer Engineer 💻!
+</h2> 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="left" src="https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" alt=" Naor | LinkedIn" width="21px"/></a>
