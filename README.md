@@ -13,7 +13,10 @@ I'm Electrical and Computer Engineer 💻!
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=CC0000)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&color=336791)
+![](https://img.shields.io/badge/Code-Deep-Learning-informational?style=flat&logo=DL&color=61DAFB)
+
 
 </br>
 
