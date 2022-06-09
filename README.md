@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="right" src="https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" alt=" Naor | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="left" src="https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" alt=" Naor | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <!--
