@@ -12,7 +12,7 @@ I'm Electrical and Computer Engineer 💻!
 ## 💼 Technical Skills
 
 
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
 
