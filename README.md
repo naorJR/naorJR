@@ -13,6 +13,7 @@ I'm Electrical and Computer Engineer 💻!
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
 
 </br>
 
