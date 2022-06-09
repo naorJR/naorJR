@@ -29,8 +29,8 @@ I'm Electrical and Computer Engineer 💻!
 
 </br>
 
-- 🤔 I’m looking for help with finding a job as a developer 
-- ⚡ Fun fact: I watched Prison break 5 times
+## 🤔 I’m looking for help with finding a job as a developer 
+## ⚡ Fun fact: I watched Prison break 5 times
 
 ## 📈 GitHub Stats 
 
