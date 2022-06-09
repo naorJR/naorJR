@@ -8,6 +8,15 @@ I'm Electrical and Computer Engineer 💻!
 🤝 Connect with me: <a href="https://www.linkedin.com/in/naor-cohen-675694223/"><img align="mid" src="https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" alt=" Naor | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naorJR)](https://github.com/naorJR)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naorJR&layout=compact)](https://github.com/naorJR)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=naorJR.naorJR)](https://www.yushi.dev/)
+
 <!--
 **naorJR/naorJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,10 +32,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naorJR)](https://github.com/naorJR)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naorJR&layout=compact)](https://github.com/naorJR)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=naorJR.naorJR)](https://www.yushi.dev/)
