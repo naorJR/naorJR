@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href=”https://www.linkedin.com/in/naor-cohen-675694223/"><img align=”left” src=”https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" alt=”Naor | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/naor-cohen-675694223/"><img align=”left” 
+src=”https://raw.githubusercontent.com/naorJR/naorJR/main/Images/linkedin.svg" 
+alt=”Naor | LinkedIn” width=”21px”/></a>
 
 <!--
 **naorJR/naorJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
