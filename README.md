@@ -27,6 +27,9 @@ I'm Electrical and Computer Engineer 💻!
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+- 🤔 I’m looking for help with finding a job as a developer 
+- ⚡ Fun fact: I watched Prison break 5 times
+
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naorJR)](https://github.com/naorJR)
@@ -40,7 +43,7 @@ I'm Electrical and Computer Engineer 💻!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on find a new job as computer enginner
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
